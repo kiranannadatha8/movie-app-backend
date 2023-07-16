@@ -25,7 +25,7 @@ To run the backend server locally, follow these steps:
 4. npm start
 
 
-##API Endpoints
+## API Endpoints
 The backend server provides the following API endpoints:
 
 GET /api/movies/search: Search for movies based on a query.
