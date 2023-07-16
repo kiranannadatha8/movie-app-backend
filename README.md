@@ -28,9 +28,9 @@ To run the backend server locally, follow these steps:
 ## API Endpoints
 The backend server provides the following API endpoints:
 
--GET /api/movies/search: Search for movies based on a query.
--GET /api/movies/details/:id : Get details of a specific movie.
--GET /api/movies/now-playing: Get a list of now playing movies.
--GET /api/movies/popular: Get a list of popular movies.
--GET /api/movies/top-rated: Get a list of top rated movies.
--GET /api/movies/upcoming: Get a list of upcoming movies.
+- GET /api/movies/search: Search for movies based on a query.
+- GET /api/movies/details/:id : Get details of a specific movie.
+- GET /api/movies/now-playing: Get a list of now playing movies.
+- GET /api/movies/popular: Get a list of popular movies.
+- GET /api/movies/top-rated: Get a list of top rated movies.
+- GET /api/movies/upcoming: Get a list of upcoming movies.
